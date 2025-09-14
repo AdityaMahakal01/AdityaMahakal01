@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AdityaMahakal01
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Aditya Mahakal
+- 👀 I’m interested in to learn new things
 - 🌱 I’m currently learning Bachelor of Computer Applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adityamahakal22@gmail.com
